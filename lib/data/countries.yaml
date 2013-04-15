@@ -3175,6 +3175,8 @@ HK:
   name: "Hong Kong"
   names:
     - "Hong Kong"
+    - "Hong Kong Special Administrative Region of China"
+    - "Hong Kong Special Administrative Region of the People's Republic of China"
   translations:
     en: "Hong Kong"
     de: "Hong Kong"
